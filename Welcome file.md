@@ -7,9 +7,9 @@ It is either pre-recorded Mp3 files or live,via-a-microphone broadcasts that  ar
 ## To setup Online Radio we need to some requirements/tools/technologies/software :
 Requirements
 ```
-At very 
+t the very least, you'll need a computer, an Internet connection, and content (like music or pre-recorded talk shows). If you're planning on broadcasting sports shows, talk radio, or interjecting comments between music, it helps to have a good microphone and a digital recording program, like Audacity.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE3OTUwMjQ3LDU2OTcyMDY2Niw4MjI0MT
-I2MzUsLTEyMDE1MzY0MjQsMTY4MDA2NDE4XX0=
+eyJoaXN0b3J5IjpbMTIxMDMzMTEzNyw1Njk3MjA2NjYsODIyND
+EyNjM1LC0xMjAxNTM2NDI0LDE2ODAwNjQxOF19
 -->
