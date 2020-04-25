@@ -23,9 +23,14 @@ Technologies :
 ```
 Web Radio more Commonly referred to as internet radio is a technology and streaming technology.
 ```
-
+Software:
+```
+8. Alta cast
+9. Audio hijack
+  
+11. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5MTc5NjUxLDU2OTcyMDY2Niw4MjI0MT
-I2MzUsLTEyMDE1MzY0MjQsMTY4MDA2NDE4XX0=
+eyJoaXN0b3J5IjpbMTU1MDU3NDMzNCw1Njk3MjA2NjYsODIyND
+EyNjM1LC0xMjAxNTM2NDI0LDE2ODAwNjQxOF19
 -->
