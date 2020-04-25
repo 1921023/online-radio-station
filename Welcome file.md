@@ -9,11 +9,15 @@ Requirements
 ```
 At the very least, you'll need a computer, an Internet connection, and content (like music or pre-recorded talk shows). If you're planning on broadcasting sports shows, talk radio, or interjecting comments between music, it helps to have a good microphone and a digital recording program, like Audacity.
 ```
-Equipments/tools:
+Equipment/tools:
 ```
-1. Radio station e
+1. Radio station equipment
+2. Mixing desk
+3. Microphone processor
+4. Headphones
+5. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjM4MDM4NCw1Njk3MjA2NjYsODIyND
+eyJoaXN0b3J5IjpbLTQxMDQ2MDI5Niw1Njk3MjA2NjYsODIyND
 EyNjM1LC0xMjAxNTM2NDI0LDE2ODAwNjQxOF19
 -->
