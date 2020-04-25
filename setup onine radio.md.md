@@ -36,7 +36,7 @@ Software:
 15. Radio Dj
 ```
 ***
-Streaming for online radio we can install pyradio software on server:
+Streaming for online radio we can install pyradio software on server and it works :
 ```
 $ snap install pyradio
 $ pyradio --play
@@ -47,6 +47,6 @@ https://www.crazyegg.com/blog/ultimate-guide-online-radio-work/
 http://ubuntuhandbook.org/index.php/2018/01/pyradio-command-line-internet-radio-player-for-ubuntu/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTE5NjY0OSwxMzY0MDI3MTY5LDY2Nj
-Q2MjQ1MiwtNjk3NDk2OTE4XX0=
+eyJoaXN0b3J5IjpbLTEwNDE3ODUwNzUsLTk3OTE5NjY0OSwxMz
+Y0MDI3MTY5LDY2NjQ2MjQ1MiwtNjk3NDk2OTE4XX0=
 -->
