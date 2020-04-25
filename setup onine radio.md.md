@@ -40,13 +40,13 @@ Streaming for online radio we can install pyradio software on server:
 ```
 $ snap install pyradio
 $ pyradio --play
-$ sudo sn
 ```
 ***
 ## For more details see this link :
 https://www.crazyegg.com/blog/ultimate-guide-online-radio-work/
+http://ubuntuhandbook.org/index.php/2018/01/pyradio-command-line-internet-radio-player-for-ubuntu/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3NzI3NjgwLDEzNjQwMjcxNjksNjY2ND
-YyNDUyLC02OTc0OTY5MThdfQ==
+eyJoaXN0b3J5IjpbLTk3OTE5NjY0OSwxMzY0MDI3MTY5LDY2Nj
+Q2MjQ1MiwtNjk3NDk2OTE4XX0=
 -->
