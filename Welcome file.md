@@ -33,11 +33,9 @@ Software:
 13. Mixxx
 14. PlayIt live
 15. Radio Dj
-  
-  
-17. 
-
+```
+***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0MTYzNzYxLDU2OTcyMDY2Niw4MjI0MT
-I2MzUsLTEyMDE1MzY0MjQsMTY4MDA2NDE4XX0=
+eyJoaXN0b3J5IjpbLTE0MDMzNjM3Nyw1Njk3MjA2NjYsODIyND
+EyNjM1LC0xMjAxNTM2NDI0LDE2ODAwNjQxOF19
 -->
