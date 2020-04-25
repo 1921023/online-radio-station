@@ -1,6 +1,7 @@
 ## Before we start learning how to setup a online radio we will have to understand about online radio and how it works :
 ```
-A digital audio service transmitted via the internet broadcasting on the internet is usually referred to as web casting since it  is not transmitted broadly wireless .
+A digital audio service transmitted via the internet 
+broadcasting on the internet is usually referred to as web casting since it  is not transmitted broadly wireless .
 It is either pre-recorded Mp3 files or live,via-a-microphone broadcasts that  are streamed aver the internet.
 ```
 ***
@@ -39,7 +40,7 @@ Software:
 https://www.crazyegg.com/blog/ultimate-guide-online-radio-work/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDExMjkwMDAsLTExMDY1OTgzMjcsLT
-E0MDMzNjM3Nyw1Njk3MjA2NjYsODIyNDEyNjM1LC0xMjAxNTM2
-NDI0LDE2ODAwNjQxOF19
+eyJoaXN0b3J5IjpbLTY5NzQ5NjkxOCwtMTEwMTEyOTAwMCwtMT
+EwNjU5ODMyNywtMTQwMzM2Mzc3LDU2OTcyMDY2Niw4MjI0MTI2
+MzUsLTEyMDE1MzY0MjQsMTY4MDA2NDE4XX0=
 -->
