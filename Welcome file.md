@@ -15,9 +15,15 @@ Equipment/tools:
 2. Mixing desk
 3. Microphone processor
 4. Headphones
-5. 
+5. Computer
+6. Sound card
+7. Audio Cables
+```
+Technologies :
+```
+Web Radio more Commonly referred to as internet radio ia
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMDQ2MDI5Niw1Njk3MjA2NjYsODIyND
+eyJoaXN0b3J5IjpbMTYyMjEzNTUzNSw1Njk3MjA2NjYsODIyND
 EyNjM1LC0xMjAxNTM2NDI0LDE2ODAwNjQxOF19
 -->
