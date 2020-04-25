@@ -36,17 +36,17 @@ Software:
 15. Radio Dj
 ```
 ***
-S for online radio we can install pyradio software on server:
+Streaming for online radio we can install pyradio software on server:
 ```
 $ snap install pyradio
-$ sudo apt install snapd
-$ sudo snap install odio
+$ pyradio --play
+$ sudo sn
 ```
 ***
 ## For more details see this link :
 https://www.crazyegg.com/blog/ultimate-guide-online-radio-work/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQyODI5MTUsMTM2NDAyNzE2OSw2Nj
-Y0NjI0NTIsLTY5NzQ5NjkxOF19
+eyJoaXN0b3J5IjpbNTE3NzI3NjgwLDEzNjQwMjcxNjksNjY2ND
+YyNDUyLC02OTc0OTY5MThdfQ==
 -->
