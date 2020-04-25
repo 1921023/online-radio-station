@@ -40,13 +40,12 @@ Setup for online radio we can install odio software on server:
 ```
 $ sudo apt update
 $ sudo apt install snapd
-$ 
-
-
+$ sudo snap install odio
 ```
+***
 ## For more details see this link :
 https://www.crazyegg.com/blog/ultimate-guide-online-radio-work/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3Njk3MDY3LC02OTc0OTY5MThdfQ==
+eyJoaXN0b3J5IjpbNjY2NDYyNDUyLC02OTc0OTY5MThdfQ==
 -->
