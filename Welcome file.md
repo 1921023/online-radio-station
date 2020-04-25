@@ -1,11 +1,5 @@
-## What are the requirements/tools/technology for online radio station. follows this link :
-
-[https://radio.co/blog/equipment-you-need-to-start-an-online-radio-station](https://radio.co/blog/equipment-you-need-to-start-an-online-radio-station)
-https://www.airtime.pro/how-to-start-an-internet-radio-station-a-step-by-step-guide/
-https://www.google.com/search?client=ubuntu&channel=fs&q=what+are+the+technology+for+online+radio&ie=utf-8&oe=utf-8
-https://www.google.com/search?client=ubuntu&channel=fs&q=what+are+the+requirements+for+online+radio&ie=utf-8&oe=utf-8
-
+Before we start learning how to setup a online radio we will have to understand about o
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyNDEyNjM1LC0xMjAxNTM2NDI0LDE2OD
-AwNjQxOF19
+eyJoaXN0b3J5IjpbLTQ4OTUxNDcyOSw4MjI0MTI2MzUsLTEyMD
+E1MzY0MjQsMTY4MDA2NDE4XX0=
 -->
